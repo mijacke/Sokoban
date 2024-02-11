@@ -15,6 +15,10 @@ Sokoban is a popular puzzle game where the player aims to push boxes to designat
 - Pixel-art style graphics
 - Simple control scheme
 
+## Credits
+- mijacke (game)
+- 1001.com, CC-BY-SA 4.0 (sprites) 
+
 ## Getting Started
 
 To play the game, clone the repository and run `main.py`:
@@ -23,7 +27,3 @@ To play the game, clone the repository and run `main.py`:
 git clone https://github.com/yourusername/sokoban-game.git
 cd sokoban-game
 python main.py
-
-## Credits
-- mijacke (game)
-- 1001.com, CC-BY-SA 4.0 (sprites) 
