@@ -1,4 +1,6 @@
-# Sokoban Game (In development)
+# Sokoban Game
+- In active development
+- ~25% done
 
 ![Sokoban](https://img.shields.io/badge/Sokoban-Puzzle-blue.svg)
 
