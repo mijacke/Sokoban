@@ -1,6 +1,14 @@
-# Sokoban Game
+# Sokoban Game (not playable yet)
 - In active development
-- ~25% done
+- Currently ~25% done
+
+## When will the game be playable?
+Please refer to the game development stage mentioned a few lines above. The stages are defined as follows:
+- In development (less than ~50%). The game is not playable at this stage.
+- alpha version (approximately ~65%). Key functionalities, such as movement and collision detection, are working optimally. Deadline: February 20, 2024.
+- beta version (approximately ~90%). Additional game levels and win conditions have been implemented. Deadline: March 1, 2024.
+- full version (approximately ~99%). The game will function nearly as intended. Deadline: March 20, 2024.
+- game updates (99% or more). Subject to available time, I plan to release frequent updates to expand and stabilize the game.
 
 ![Sokoban](https://img.shields.io/badge/Sokoban-Puzzle-blue.svg)
 
