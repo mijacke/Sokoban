@@ -1,4 +1,4 @@
-# Sokoban Game
+# Sokoban Game (In development)
 
 ![Sokoban](https://img.shields.io/badge/Sokoban-Puzzle-blue.svg)
 
